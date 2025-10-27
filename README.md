@@ -16,7 +16,7 @@
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.react`, `.vue`
 - 💬 Ask me about **frontend development**
 - 🎯 Goal: Build fast, responsive, and modern web apps
-- 📫 Telegram: [@ibrohim3](https://t.me/Qosimov47)
+- 📫 Telegram: [@ibrohimqosimovx](https://t.me/Qosimov47)
 - ⚡ Fun fact: *I don’t sleep until the code runs 😄*
 
 </div>
