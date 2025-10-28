@@ -40,10 +40,22 @@
   </h2>
 
 
-  <p align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibrohim3&show_icons=true&theme=tokyonight&border_radius=15&count_private=true&hide_border=true" height="170" style="margin: 10px; border-radius: 14px; box-shadow: 0 0 12px rgba(0,231,255,0.25);" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrohim3&theme=tokyonight&hide_border=true&border_radius=15" height="170" style="margin: 10px; border-radius: 14px; box-shadow: 0 0 12px rgba(138,43,226,0.25);" />
-  </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ibrohim3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+    height="170" 
+    style="margin: 10px; display: inline-block; border-radius: 14px; box-shadow: 0 0 12px rgba(0,231,255,0.25);" 
+  />
+  <img 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ibrohim3&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="170" 
+    style="margin: 10px; display: inline-block; border-radius: 14px; box-shadow: 0 0 12px rgba(138,43,226,0.25);" 
+  />
+</p>
+
+
+
+
 
 
 </div>
