@@ -36,7 +36,7 @@
 ">
   
   <h2 style="font-size: 30px; font-weight: 800; color: #00e7ff; margin-bottom: 25px; text-shadow: 0 0 10px rgba(0,231,255,0.6);">
-    📊 My GitHub Performance
+    📊 My GitHub Performance 
   </h2>
 
 
