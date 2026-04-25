@@ -85,8 +85,35 @@
 <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
 
 ### 🧠 Tech Stack
+
+#### 🎨 Frontend
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,sass" />
+</p>
+
+#### ⚙️ Backend
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
+</p>
+
+#### 🗄️ Database
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+#### ☁️ DevOps & Cloud
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify,aws" />
+</p>
+
+<p align="start">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+#### 🛠️ Tools
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
 </p>
 
 </div>
