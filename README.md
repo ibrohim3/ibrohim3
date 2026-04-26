@@ -103,7 +103,7 @@
 
 #### ☁️ DevOps & Cloud
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify,aws" />
+  <img src="https://skillicons.dev/icons?i=nginx,vercel,netlify" />
 </p>
 
 <p align="start">
