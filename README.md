@@ -22,7 +22,7 @@
 
 </div>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT%20MY%20SITE-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://qosimovdev.github.io/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT%20MY%20SITE-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://qosimovdev.uz/)
 
 <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
   
@@ -126,7 +126,7 @@
 ## 📫 Contact Me
 
 - Telegram: https://t.me/qosimovdev  
-- Portfolio: https://qosimovdev.github.io  
+- Portfolio: https://qosimovdev.uz  
 - Email: qosimovdevv@gmail.com  
 
 ---
