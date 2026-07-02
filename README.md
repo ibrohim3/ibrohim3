@@ -34,56 +34,6 @@
 ---
 </div>
 
-<div align="start" style="
-  position: relative;
-  border: 2.5px solid transparent;
-  background: linear-gradient(145deg, rgba(13,17,23,0.95), rgba(20,25,35,0.9)) padding-box,
-              linear-gradient(90deg, #00e7ff, #8a2be2, #00ffcc) border-box;
-  border-radius: 25px;
-  padding: 45px 30px;
-  box-shadow: 0 0 35px rgba(0, 231, 255, 0.15);
-  color: #d7f9ff;
-  font-family: 'Fira Code', monospace;
-  backdrop-filter: blur(8px);
-  transition: all 0.4s ease-in-out;
-">
-  
-  <h2 style="font-size: 30px; font-weight: 800; color: #00e7ff; margin-bottom: 30px; text-shadow: 0 0 10px rgba(0,231,255,0.6);">
-    📊 My GitHub Performance 
-    
-  </h2>
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=qosimovdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=qosimovdev&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-
-</div>
-
----
-
-<div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
-
-### 🏆 Achievements
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=qosimovdev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6&v=1"
-  />
-</p>
-
-
-</div> 
-
----
-
 <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
 
 ### 🧠 Tech Stack
